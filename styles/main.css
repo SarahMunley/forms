@@ -1,0 +1,9 @@
+body {
+  color: white;
+}
+
+#app {
+  background-image: url('https://i.ytimg.com/vi/1NehCpI_Jy0/maxresdefault.jpg');
+  background-size: contain;
+  padding-left: 50px;
+}
